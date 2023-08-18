@@ -1,2 +1,5 @@
-# Digital-Business-Card
- Digital Business Card
+# The Frontend Developer Career Path
+
+# Module 11 Scrimba Frontend Developer Career Path. React Basics.
+
+- Solo Project Digital-Business-Card
